@@ -1,0 +1,92 @@
+.footer-container {
+    width: 1280px;
+    height: 436px;
+    padding: 0 72px;
+    background: linear-gradient(0deg, #282A2C, #282A2C),
+linear-gradient(0deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1));
+
+    margin: 0 auto;
+    margin-top:  100px;
+    display: flex;
+    flex-direction: column;
+
+  }
+
+  .footer-top{
+    width: 100%;
+    height: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .info1{
+    width: 443px;
+    height: 128px;
+    
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+
+  }
+  .info2{
+    width: 357px;
+    height: 102px;
+    
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+  }
+
+  .footer-bottom{
+    width: 100%;
+    height: 108px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+  }
+  .logo-division{
+    width:82px;
+    height:24px;
+  }
+  .para_div{
+    width:443px;
+    height: 72px;
+    
+  }
+  .email-dummy{
+    width: 357px;
+    height: 26px;
+    
+  }
+  .address{
+    width: 357px;
+    height: 52px;
+  }
+  .company-logo{
+    width: 200px;
+    height: 44px;
+    background-color: black;
+  }
+  .copyright{
+    width: 191px;
+    height: 24px;
+    
+  }
+
+  .mail{
+    font-weight: 700;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 1);
+  }
+
+  .location{
+    font-weight: 400;
+    font-size: 16px;
+    color: rgba(201, 201, 201, 1);
+  }
+  add-lock{
+    font-weight: 400px;
+    font-size: 16px;
+    color: rgba(201, 201, 201, 1);
+  }
